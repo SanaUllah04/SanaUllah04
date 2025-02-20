@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓3rd Year BCS student at NU-FAST Peshawar<br>🛡️ CyberSecurity Enthusiast <br>🐛 Learning Bug Bounty Hacking
+🎓3rd Year BCS student at NU-FAST Peshawar<br>🎮 Game Developer Hobbyist  <br>📊 Aspiring Data Scientist  
 
 
 ## 🌐 Socials:
