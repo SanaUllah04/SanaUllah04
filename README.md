@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Multimodal LLMs & Game Development<br>👯 I’m looking to collaborate on Open-Source AI & Game Projects<br>🤝 I’m looking for help with Advanced Game Development Mechanics in Unity<br>🌱 I’m currently learning Prolog, AI-Driven Game Development, and Multimodal Models<br>💬 Ask me about Python, Machine Learning, and Game Development<br>⚡ Fun fact: I am not a Robot 🤖
+🔭 Self Motivated & Curious Learner<br>
+💬 Ask me about Python, Machine Learning, and Game Development<br>⚡ Fun fact: I am not a Robot 🤖
 
 
 ## 🌐 Socials:
