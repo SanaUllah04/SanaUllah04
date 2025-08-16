@@ -1,14 +1,14 @@
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlvemZneWNnZXFtOWdvamRkcWRjcDQ1bm5tcG90N282NWRwOTg2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
-
-###
+<br clear="both">
 
 <h1 align="center">Welcome to my double life 👀  <br>👨‍💻 Code by day, 🦇 Batman by night</h1>
 
 ###
 
-<br clear="both">
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlvemZneWNnZXFtOWdvamRkcWRjcDQ1bm5tcG90N282NWRwOTg2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
 
-<h1 align="center">👩‍💻  About Me</h1>
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -16,9 +16,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">📱 Socials</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://x.com/MrWarden04" target="_blank">
@@ -46,9 +50,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">🌐 Language</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
@@ -76,9 +84,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">🛠 Tools</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -140,14 +152,20 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanaUllah04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanaUllah04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SanaUllah04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SanaUllah04.SanaUllah04&"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/SanaUllah04/SanaUllah04/output/snake.svg" alt="Snake animation" />
 
 ###
