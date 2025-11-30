@@ -193,7 +193,7 @@
 
 ###
 
-<h2 align="left">👋   Good Buy :</h2>
+<h2 align="left">👋   Good Bye :</h2>
 
 
 ###
