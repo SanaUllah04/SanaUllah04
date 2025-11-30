@@ -1,15 +1,15 @@
 <br clear="both">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
   
   <!-- GIF on LEFT -->
   <img 
     src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" 
-    height="100"
+    height="120"
   />
 
-  <!-- Custom H1 (no underline) -->
-  <div align="center" style="font-size: 32px; font-weight: bold; margin: 0;">
+  <!-- Custom "H1" Text -->
+  <div align="center" style="font-size: 48px; font-weight: bold; margin: 0; line-height: 1.2;">
     Welcome to my double life 👀 <br>
     👨‍💻 Code by day, 🦇 Batman by night
   </div>
@@ -20,6 +20,9 @@
 
 <!-- Full width line -->
 <hr style="width: 100%; height: 2px; border: none; background-color: #444;" />
+
+
+
 
 ###
 
