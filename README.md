@@ -1,19 +1,19 @@
 <br clear="both">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
-  
-  <!-- GIF on LEFT -->
+<!-- GIF centered at the top -->
+<div align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" 
     height="120"
   />
+</div>
 
-  <!-- Custom "H1" Text -->
-  <div align="center" style="font-size: 48px; font-weight: bold; margin: 0; line-height: 1.2;">
-    Welcome to my double life 👀 <br>
-    👨‍💻 Code by day, 🦇 Batman by night
-  </div>
+<br>
 
+<!-- Welcome Text -->
+<div align="center" style="font-size: 48px; font-weight: bold; margin: 0; line-height: 1.2;">
+  Welcome to my double life 👀 <br>
+  👨‍💻 Code by day, 🦇 Batman by night
 </div>
 
 <br>
@@ -21,20 +21,15 @@
 <!-- Full width line -->
 <hr style="width: 100%; height: 2px; border: none; background-color: #444;" />
 
-
-
-
 ###
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlzemlodHdna3lid2lpa3IxMmM1eG5qNTVob3NqbHNwZG05c3gydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LWJ7cKyiWPCnVyuAhT/giphy.gif"  />
-
 
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
 
 ###
-
 
 <p align="center">I'm SanaUllah from Earth<br><br>- 💼 Working on AI/ML/DS and sometimes Quantum<br>- 🎮 Game Developer as hobbyist (yeah, I know, strange)<br>- 🌱 In my free time, I like to touch grass</p>
 
@@ -117,8 +112,6 @@
 <br clear="both">
 
 <div align="center">
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
@@ -170,7 +163,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  
 </div>
 
 ###
@@ -181,13 +173,15 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SanaUllah04.SanaUllah04&"  />
 
+
 ###
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" height="250" alt="stats graph"  />
-  
+
+  <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-  
+  <br>
   <img src="https://streak-stats.demolab.com?user=SanaUllah04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -195,20 +189,10 @@
 
 <h2 align="left">👋   Good Bye :</h2>
 
-
 ###
 
 <div align="center">
-
-
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s0YXQzcXBlOWJnMTdrenZsZ2swcmo5djV5dGptbXhwdmM2OGRydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kaBU6pgv0OsPHz2yxy/giphy.gif" height="800"  />
-  
- 
- <!--
-  <img src="https://streak-stats.demolab.com?user=SanaUllah04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-
--->
 
 <hr>
 </div>
