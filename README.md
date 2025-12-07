@@ -185,14 +185,6 @@
   <img src="https://streak-stats.demolab.com?user=SanaUllah04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<h2 align="left">👋   Good Bye :</h2>
-
-###
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s0YXQzcXBlOWJnMTdrenZsZ2swcmo5djV5dGptbXhwdmM2OGRydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kaBU6pgv0OsPHz2yxy/giphy.gif" height="800"  />
 
 <hr>
 </div>
