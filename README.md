@@ -182,7 +182,8 @@
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
   <br>
-    <img src="https://streak-stats.demolab.com/api/card-with-avatar?username=SanaUllah04&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=2" alt="GitHub Streak Stats" />
+
+  
 </div>
 
 <hr>
@@ -192,18 +193,13 @@
 <div align="center">
   <h3>📈 Additional GitHub Statistics</h3>
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaUllah04&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
   <br><br>
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
   
   <br><br>
-  
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=SanaUllah04&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
 </div>
 
 ###
