@@ -190,10 +190,30 @@
 ###
 
 <div align="center">
-  <h3>📈 View My Coding Streak</h3>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanaUllah04&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <h3>📈 Additional GitHub Statistics</h3>
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SanaUllah04&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <br><br>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaUllah04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <br><br>
+  
+  <!-- GitHub Streak Stats Alternative -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SanaUllah04&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  
+  <br><br>
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=SanaUllah04&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ###
