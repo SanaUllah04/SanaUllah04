@@ -197,16 +197,6 @@
   
   <br><br>
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaUllah04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  
-  <br><br>
-  
-  <!-- GitHub Streak Stats Alternative -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SanaUllah04&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
-  
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
   
