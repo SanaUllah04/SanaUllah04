@@ -198,7 +198,7 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
   
-
-</div>
 <hr>
+</div>
+
 ###
