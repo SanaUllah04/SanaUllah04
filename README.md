@@ -193,11 +193,10 @@
 <div align="center">
   
   <br>
-  <img src= "https://github-readme-stats.vercel.app/api?username=SanaUllah04&show_icons=true&theme=radical"
-    
+
   <br>
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
   
   <br><br>
 
