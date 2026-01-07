@@ -183,22 +183,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
   <br>
 
-  
-</div>
-
-<hr>
-
-###
-
-<div align="center">
-  
-  <br>
-
-  <br>
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
-  
-<hr>
+
+  <hr>
 </div>
 
-###
