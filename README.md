@@ -185,6 +185,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
 
+  ![SanaUllah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaullah04&show_icons=true&theme=radical)
   <hr>
 </div>
 
