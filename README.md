@@ -183,11 +183,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
-
-  <br>
+ 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=SanaUllah04&theme=highcontrast&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+
+ <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
+
 
   <hr>
 </div>
