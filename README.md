@@ -185,8 +185,7 @@
 
  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanaUllah04&theme=highcontrast&hide_border=true&border_radius=10&card_width=1000&card_height=500)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SanaUllah04&theme=highcontrast&hide_border=true&border_radius=10&card_width=700&card_height=300)](https://git.io/streak-stats)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
 
