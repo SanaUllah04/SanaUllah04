@@ -185,6 +185,10 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&theme=react-dark&hide_border=true&area=true" />
 
+  <br>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SanaUllah04&theme=highcontrast&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+
   <hr>
 </div>
 
