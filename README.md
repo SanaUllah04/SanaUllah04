@@ -6,7 +6,7 @@
       D E P A R T M E N T   O F   M E T A H U M A N   A F F A I R S
 </pre>
 
-**  CLASSIFIED — CLEARANCE LEVEL: PUBLIC  **
+**CLASSIFIED — CLEARANCE LEVEL: PUBLIC**
 
 </div>
 
