@@ -12,7 +12,8 @@
 
 <br>
 
-## CASE FILE — GC-04-SU
+<div align="center">
+## 📁 CASE FILE — GC-04-SU
 
 | FIELD                    | DETAIL                                                                    |
 | :----------------------- | :------------------------------------------------------------------------ |
@@ -26,9 +27,11 @@
 | **Official Record**      | [linkedin.com/in/sanaullah-cs](https://www.linkedin.com/in/sanaullah-cs/) |
 | **Field HQ**             | [sanaullah04.github.io](https://sanaullah04.github.io)                    |
 
+</div>
+
 <br>
 
-## SUBJECT PROFILE
+## 🕵️ SUBJECT PROFILE
 
 > _Field notes, obtained via informant close to the subject:_
 
@@ -43,7 +46,7 @@ By day, the subject builds full-stack systems end to end — wiring up interface
 
 <br>
 
-## EVIDENCE BOARD
+## 🗺️ EVIDENCE BOARD
 
 _Recovered from the subject's whiteboard — connections between known activity clusters._
 
@@ -53,7 +56,7 @@ _Recovered from the subject's whiteboard — connections between known activity 
 
 <br>
 
-## COMBAT PROFICIENCY REPORT
+## 📊 COMBAT PROFICIENCY REPORT
 
 _Field-tested proficiency ratings, hand-graded by the Department (not a bot)._
 
@@ -68,7 +71,9 @@ STAYING UP PAST 2AM      ▰▰▰▰▰▰▰▰▰▰ 100%   department record
 
 <br>
 
-### FULL ARSENAL
+### 🧰 FULL ARSENAL
+
+<div align="center">
 
 | CATEGORY              | ITEMS                                                                          |
 | :-------------------- | :----------------------------------------------------------------------------- |
@@ -79,9 +84,12 @@ STAYING UP PAST 2AM      ▰▰▰▰▰▰▰▰▰▰ 100%   department record
 | **Quantum Tools**     | Qiskit, Quantum Circuit Cutting, QAOA, VQE, PkTron Simulator                   |
 | **Dev Tools**         | Postman, VS Code, PyCharm, IntelliJ, Android Studio, Visual Studio             |
 
+</div>
 <br>
 
-## FIELD HISTORY
+## 🧾 FIELD HISTORY
+
+<div align="center">
 
 | OPERATION                     | CODENAME                | LOADOUT                                                                       |
 | :---------------------------- | :---------------------- | :---------------------------------------------------------------------------- |
@@ -89,9 +97,10 @@ STAYING UP PAST 2AM      ▰▰▰▰▰▰▰▰▰▰ 100%   department record
 | Full-Stack Developer Intern   | _Operation Cold Start_  | Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB, Express, JWT, Cloudflare |
 | Full-Stack AI Engineer Intern | _Operation Lone Wolf_   | Next.js, Shadcn, Node.js, PostgresSQL, Express, JWT, Firebase, Vercel         |
 
+</div>
 <br>
 
-## SURVEILLANCE LOG
+## 🧾 SURVEILLANCE LOG
 
 _Intercepted terminal history — cleaned up for readability._
 
@@ -107,7 +116,7 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 
 <br>
 
-## LAST SIGHTED
+## 📈 LAST SIGHTED
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&bg_color=0D1117&color=8b949e&line=8b949e&point=ffffff&area=true&hide_border=true&custom_title=Movement%20Log%20%E2%80%94%20Last%2012%20Months" width="90%" />
@@ -115,7 +124,7 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 
 <br>
 
-## CONSECUTIVE NIGHTS ON THE PROWL
+## 🌙 CONSECUTIVE NIGHTS ON THE PROWL
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=SanaUllah04&background=0D1117&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" width="90%" />
@@ -123,8 +132,9 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 
 <br>
 
-## KNOWN COMMUNICATION CHANNELS
+## 📡 KNOWN COMMUNICATION CHANNELS
 
+<div align="center">
 _Use at your own risk. Response times vary with model training schedules._
 
 | CHANNEL           | DESIGNATION                | LINK                                                                  |
@@ -137,6 +147,7 @@ _Use at your own risk. Response times vary with model training schedules._
 | ✉️ Gmail          | direct line to the Batcave | [sanaullahofficial04@gmail.com](mailto:sanaullahofficial04@gmail.com) |
 | 🌐 Portfolio      | field HQ                   | [sanaullah04.github.io](https://sanaullah04.github.io)                |
 
+</div>
 <br>
 
 <div align="center">
