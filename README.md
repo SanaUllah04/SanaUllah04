@@ -12,7 +12,7 @@
 
 <br>
 
-## 📁 CASE FILE — GC-04-SU
+## CASE FILE — GC-04-SU
 
 | FIELD                    | DETAIL                                                                    |
 | :----------------------- | :------------------------------------------------------------------------ |
@@ -28,7 +28,7 @@
 
 <br>
 
-## 🕵️ SUBJECT PROFILE
+## SUBJECT PROFILE
 
 > _Field notes, obtained via informant close to the subject:_
 
@@ -43,7 +43,7 @@ By day, the subject builds full-stack systems end to end — wiring up interface
 
 <br>
 
-## 🗺️ EVIDENCE BOARD
+## EVIDENCE BOARD
 
 _Recovered from the subject's whiteboard — connections between known activity clusters._
 
@@ -53,7 +53,7 @@ _Recovered from the subject's whiteboard — connections between known activity 
 
 <br>
 
-## 📊 COMBAT PROFICIENCY REPORT
+## COMBAT PROFICIENCY REPORT
 
 _Field-tested proficiency ratings, hand-graded by the Department (not a bot)._
 
@@ -68,7 +68,7 @@ STAYING UP PAST 2AM      ▰▰▰▰▰▰▰▰▰▰ 100%   department record
 
 <br>
 
-### 🧰 FULL ARSENAL
+### FULL ARSENAL
 
 | CATEGORY              | ITEMS                                                                          |
 | :-------------------- | :----------------------------------------------------------------------------- |
@@ -81,7 +81,7 @@ STAYING UP PAST 2AM      ▰▰▰▰▰▰▰▰▰▰ 100%   department record
 
 <br>
 
-## 🧾 FIELD HISTORY
+## FIELD HISTORY
 
 | OPERATION                     | CODENAME                | LOADOUT                                                                       |
 | :---------------------------- | :---------------------- | :---------------------------------------------------------------------------- |
@@ -91,7 +91,7 @@ STAYING UP PAST 2AM      ▰▰▰▰▰▰▰▰▰▰ 100%   department record
 
 <br>
 
-## 🧾 SURVEILLANCE LOG
+## SURVEILLANCE LOG
 
 _Intercepted terminal history — cleaned up for readability._
 
@@ -107,7 +107,7 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 
 <br>
 
-## 📈 LAST SIGHTED
+## LAST SIGHTED
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanaUllah04&bg_color=0D1117&color=8b949e&line=8b949e&point=ffffff&area=true&hide_border=true&custom_title=Movement%20Log%20%E2%80%94%20Last%2012%20Months" width="90%" />
@@ -115,7 +115,7 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 
 <br>
 
-## 🌙 CONSECUTIVE NIGHTS ON THE PROWL
+## CONSECUTIVE NIGHTS ON THE PROWL
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=SanaUllah04&background=0D1117&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" width="90%" />
@@ -123,7 +123,7 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 
 <br>
 
-## 📡 KNOWN COMMUNICATION CHANNELS
+## KNOWN COMMUNICATION CHANNELS
 
 _Use at your own risk. Response times vary with model training schedules._
 
