@@ -128,7 +128,7 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 ## CONSECUTIVE NIGHTS ON THE PROWL
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=SanaUllah04&background=0D1117&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" width="90%" />
+<img src="https://streak-stats.demolab.com?user=SanaUllah04&background=0D1117&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" width="70%" />
 </div>
 
 <br>
