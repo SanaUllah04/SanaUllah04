@@ -34,8 +34,6 @@
 
 ## SUBJECT PROFILE
 
-> _Field notes, obtained via informant close to the subject:_
-
 By day, the subject builds full-stack systems end to end — wiring up interfaces, shipping backends, and bolting AI onto whatever will hold still long enough. Colleagues describe the pattern as "shipping fast," though its resemblance to obsession has not gone unnoticed. By night, the subject disappears entirely — some say to touch grass, others claim a cape is involved. No footage exists of both personas in the same frame. Draw your own conclusions.
 
 <pre>
