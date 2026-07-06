@@ -139,13 +139,13 @@ d4e5f6a  fix: patched the plot hole in my sleep schedule
 
 | CHANNEL           | DESIGNATION                | LINK                                                                  |
 | :---------------- | :------------------------- | :-------------------------------------------------------------------- |
-| 🐦 Twitter        | signal chatter             | [@MrWarden04](https://x.com/MrWarden04)                               |
-| 💼 LinkedIn       | official record            | [sanaullah-cs](https://www.linkedin.com/in/sanaullah-cs/)             |
-| 📸 Instagram      | civilian sightings         | [@sanaullah.here](https://www.instagram.com/sanaullah.here/)          |
-| 🧵 Stack Overflow | interrogation transcripts  | [sanaullah](https://stackoverflow.com/users/30789316/sanaullah)       |
-| ✍️ Medium         | written confessions        | [@iamsanaullah041](https://medium.com/@iamsanaullah041)               |
-| ✉️ Gmail          | direct line to the Batcave | [sanaullahofficial04@gmail.com](mailto:sanaullahofficial04@gmail.com) |
-| 🌐 Portfolio      | field HQ                   | [sanaullah04.github.io](https://sanaullah04.github.io)                |
+| Twitter        | signal chatter             | [@MrWarden04](https://x.com/MrWarden04)                               |
+| LinkedIn       | official record            | [sanaullah-cs](https://www.linkedin.com/in/sanaullah-cs/)             |
+| Instagram      | civilian sightings         | [@sanaullah.here](https://www.instagram.com/sanaullah.here/)          |
+| Stack Overflow | interrogation transcripts  | [sanaullah](https://stackoverflow.com/users/30789316/sanaullah)       |
+| Medium         | written confessions        | [@iamsanaullah041](https://medium.com/@iamsanaullah041)               |
+| Gmail          | direct line to the Batcave | [sanaullahofficial04@gmail.com](mailto:sanaullahofficial04@gmail.com) |
+| Portfolio      | field HQ                   | [sanaullah04.github.io](https://sanaullah04.github.io)                |
 
 </div>
 <br>
