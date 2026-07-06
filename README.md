@@ -49,8 +49,6 @@ By day, the subject builds full-stack systems end to end — wiring up interface
 
 ## EVIDENCE BOARD
 
-_Recovered from the subject's whiteboard — connections between known activity clusters._
-
 <div align="center">
 <img src="https://mermaid.ink/img/JSV7aW5pdDogeyd0aGVtZSc6J2Jhc2UnLCAndGhlbWVWYXJpYWJsZXMnOiB7ICdwcmltYXJ5Q29sb3InOicjMEQxMTE3JywncHJpbWFyeVRleHRDb2xvcic6JyNjOWQxZDknLCdwcmltYXJ5Qm9yZGVyQ29sb3InOicjOGI5NDllJywnbGluZUNvbG9yJzonIzhiOTQ5ZScsJ3NlY29uZGFyeUNvbG9yJzonIzBEMTExNycsJ3RlcnRpYXJ5Q29sb3InOicjMEQxMTE3JywnYmFja2dyb3VuZCc6JyMwRDExMTcnLCdtYWluQmtnJzonIzBEMTExNycsJ25vZGVUZXh0Q29sb3InOicjYzlkMWQ5JywnZWRnZUxhYmVsQmFja2dyb3VuZCc6JyMwRDExMTcnLCdjbHVzdGVyQmtnJzonIzBEMTExNycsJ2NsdXN0ZXJCb3JkZXInOicjOGI5NDllJywnZm9udEZhbWlseSc6J21vbm9zcGFjZSd9fX0lJQpncmFwaCBMUgogICAgU1UoKFNhbmFVbGxhaCkpOjo6Y29yZSAtLT4gRlNbRnVsbC1TdGFjayBFbmdpbmVlcmluZ10KICAgIFNVIC0tPiBBSVtBSSBJbnRlZ3JhdGlvbl0KICAgIFNVIC0tPiBPUFNbRGV2T3BzIC8gQ2xvdWRdCiAgICBTVSAtLT4gUUNbUXVhbnR1bSBUaW5rZXJpbmddCiAgICBTVSAtLT4gQk1bTm9jdHVybmFsIEFjdGl2aXR5XQoKICAgIEZTIC0tPiBSSltSZWFjdCAvIE5leHQuanNdCiAgICBGUyAtLT4gTkpbTm9kZS5qcyAvIEZhc3RBUEkgLyBEamFuZ29dCiAgICBBSSAtLT4gQVVbQXV0b21hdGlvbiB2aWEgbjhuXQogICAgQUkgLS0+IERCW01vbmdvREIgLyBQb3N0Z3JlcyAvIFN1cGFiYXNlXQogICAgT1BTIC0tPiBES1tEb2NrZXIgLyBUZXJyYWZvcm1dCiAgICBPUFMgLS0+IENJW0dpdEh1YiBBY3Rpb25zIC8gQVdTIEVDMl0KICAgIFFDIC0tPiBRU1tRaXNraXQgLyBRQU9BIC8gVlFFXQogICAgQk0gLS0+IERCR1tBY3Rpdml0eTogRGVidWdnaW5nIGF0IDJBTV0KCiAgICBjbGFzc0RlZiBjb3JlIGZpbGw6IzBEMTExNyxzdHJva2U6IzhiOTQ5ZSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM4Yjk0OWU7Cg==?bgColor=0D1117" width="100%" />
 </div>
@@ -58,8 +56,6 @@ _Recovered from the subject's whiteboard — connections between known activity 
 <br>
 
 ## COMBAT PROFICIENCY REPORT
-
-_Field-tested proficiency ratings, hand-graded by the Department (not a bot)._
 
 <pre>
 FULL-STACK DEVELOPMENT   ▰▰▰▰▰▰▰▰▰▱  90%   frontend to backend, no fear
@@ -102,8 +98,6 @@ STAYING UP PAST 2AM      ▰▰▰▰▰▰▰▰▰▰ 100%   department record
 <br>
 
 ## SURVEILLANCE LOG
-
-_Intercepted terminal history — cleaned up for readability._
 
 <pre>
 $ git log --author="SanaUllah" --oneline
