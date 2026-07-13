@@ -21,8 +21,6 @@
 | **Subject**              | SanaUllah                                                                 |
 | **Known Alias**          | _"The Dev Knight"_                                                        |
 | **Classification**       | Full-Stack AI Engineer                                                    |
-| **Status**               | 🟢 Active — last seen deploying to production                             |
-| **Threat Level**         | Low, unless you break his pipeline                                        |
 | **Distinguishing Trait** | Vanishes at sunset, returns with dark circles and a working build         |
 | **Direct Line**          | [sanaullahofficial04@gmail.com](mailto:sanaullahofficial04@gmail.com)     |
 | **Official Record**      | [linkedin.com/in/sanaullah-cs](https://www.linkedin.com/in/sanaullah-cs/) |
